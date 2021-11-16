@@ -10,4 +10,5 @@ Versatile, results-driven professional with 3 years comprehensive experience Ful
 
 # My Portfolio
 
+Here you can find my Projects and CV
 [https://arsimsejdiu.vercel.app/](https://arsimsejdiu.vercel.app/)
