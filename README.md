@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Amayzing projects
 - 📫 How to reach me: arsimmsejdiu@gmail.com
 
-<!---
-arsimmsejdiu/arsimmsejdiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+
+Versatile, results-driven professional with 3 years comprehensive experience Fullstack Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
