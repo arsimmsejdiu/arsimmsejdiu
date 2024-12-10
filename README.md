@@ -5,8 +5,10 @@
 - 📫 How to reach me: arsimmsejdiu@gmail.com
 
 # About Me
-
-Versatile, results-driven professional with 5 years comprehensive experience Fullstack Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+Senior Full-Stack Developer with 7+ years of experience specializing in React, React Native,
+and TypeScript. Skilled in building scalable, user-centric applications using Next.js,
+Tailwind CSS, and PostgreSQL. Strong background in cross-platform development,
+responsive design, and integrating intelligent features using AI APIs.
 
 # My Portfolio and Social Links
 
@@ -14,4 +16,4 @@ Here you can find my Projects and CV
 [https://arsimsejdiu.vercel.app/](https://arsimsejdiu.vercel.app/)
 
 My Linkedin profile 
-[Arsim Sejdiu](https://www.linkedin.com/in/arsim-sejdiu-93447331/)
+[Arsim Sejdiu](https://www.linkedin.com/in/arsim-sejdiu/)
